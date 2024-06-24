@@ -8,41 +8,31 @@
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
-<!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- This is a data science project where we are dealing with data from a lending organization which has various parameters.
+- The Data is from a consumer finanace company where we have close to 40000 borrowers and on basis of this data we have to form insights.
+- Based on the analysis and insights we have to decide whether to approve the loan or not.
+- We are using loan.csv dataset which has more than 100 columns and 40000 rows.
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- Based on the analysis done via various techniques: Univariate anyalysis, Bivariate analysis we came to conclusion that interest rate, dti, annual_income, State, loan grade are important factors for deciding on set borrowers who defaulting on loan payment.
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+- jupyter notebook
+- matplotlib library
+- seaborn library
+- pandas
+- numpy
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was done as part of Upgrad64 Batch - ML/AI project under EDA module.
+
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@prashanthector] - feel free to contact me!
 
 
 <!-- Optional -->
