@@ -1,48 +1,52 @@
-#Project Name: 
-Lending Club Case Study
-Table of Contents
-General Info
-Technologies Used
-Conclusions
-Acknowledgements
-General Information
-Project Information
-The project is a data science project that uses the lending club data set to predict whether a loan will be defaulted or not.
+# Project Name
+> Outline a brief description of your project.
 
-Project Background
-This company is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Borrowers can easily access lower interest rate loans through a fast online interface. Like most other lending companies, lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss). Credit loss is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed. In other words, borrowers who default cause the largest amount of loss to the lenders. In this case, the customers labelled as 'charged-off' are the 'defaulters'.
 
-Project Statement
-Find the driving factors which lead to the defaulted loans which are major source of loss for the company.
+## Table of Contents
+* [General Info](#general-information)
+* [Technologies Used](#technologies-used)
+* [Conclusions](#conclusions)
+* [Acknowledgements](#acknowledgements)
 
-Data Set
-The data set is a csv file with the loan data for the Lending Club.
+<!-- You can include any other section that is pertinent to your problem -->
 
-Conclusions
-Major Driving factor which can be used to predict the chance of defaulting and avoiding Credit Loss:
-DTI
-Grades
-Verification Status
-Annual income
-Pub_rec_bankruptcies
-Other considerations for 'defaults' :
-Burrowers from large urban cities like california, new york, texas, florida etc.
-Burrowers having annual income in the range 50000-100000.
-Burrowers having Public Recorded Bankruptcy.
-Burrowers with least grades like E,F,G which indicates high risk.
-Burrowers with very high Debt to Income value.
-Burrowers with working experience 10+ years.
-Technologies Used
-Pandas - version 1.3.4
-NumPy - version 1.20.3
-Seaborn - version 0.11.2
-MatplotLib - version 3.4.3
-Plotly - version 5.7.0
-Acknowledgements
-This project was inspired by UpGrad IITB Programme as a case study for the Machine Learning and Artificial Intelligence course.
+## General Information
+- Provide general information about your project here.
+- What is the background of your project?
+- What is the business probem that your project is trying to solve?
+- What is the dataset that is being used?
 
-Contact
-Created by [@sukhijapiyush] - feel free to contact me!
+<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-License
-This project is open source and available without restrictions
+## Conclusions
+- Conclusion 1 from the analysis
+- Conclusion 2 from the analysis
+- Conclusion 3 from the analysis
+- Conclusion 4 from the analysis
+
+<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
+
+## Technologies Used
+- library - version 1.0
+- library - version 2.0
+- library - version 3.0
+
+<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+
+## Acknowledgements
+Give credit here.
+- This project was inspired by...
+- References if any...
+- This project was based on [this tutorial](https://www.example.com).
+
+
+## Contact
+Created by [@githubusername] - feel free to contact me!
+
+
+<!-- Optional -->
+<!-- ## License -->
+<!-- This project is open source and available under the [... License](). -->
+
+<!-- You don't have to include all sections - just the one's relevant to your project -->
