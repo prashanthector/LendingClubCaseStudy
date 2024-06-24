@@ -16,7 +16,7 @@
 - We are using loan.csv dataset which has more than 100 columns and 40000 rows.
 
 ## Conclusions
-- Based on the analysis done via various techniques: Univariate anyalysis, Bivariate analysis we came to conclusion that interest rate, dti, annual_income, State, loan grade are important factors for deciding on set borrowers who defaulting on loan payment.
+- Based on the analysis done via various techniques: Univariate anyalysis, Bivariate analysis we came to conclusion that interest rate, dti, annual_income, State, loan grade, purpose are important factors for deciding on set borrowers who defaulting on loan payment.
 
 
 ## Technologies Used
@@ -34,9 +34,3 @@
 ## Contact
 Created by [@prashanthector] - feel free to contact me!
 
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
