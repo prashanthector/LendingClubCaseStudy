@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study
+> This is case study about consumer finance company where we have to analyse data and decide on the parameters which will help us on making descision wether to approve loan or not.
 
 
 ## Table of Contents
