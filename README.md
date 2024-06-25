@@ -10,7 +10,7 @@
 
 
 ## General Information
-- This is a data science project where we are dealing with data from a lending organization which has various parameters.
+- This is a EDA project where we are dealing with data from a lending organization which has various parameters.
 - The Data is from a consumer finanace company where we have close to 40000 borrowers and on basis of this data we have to form insights.
 - Based on the analysis and insights we have to decide whether to approve the loan or not.
 - We are using loan.csv dataset which has more than 100 columns and 40000 rows.
