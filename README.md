@@ -20,11 +20,11 @@
 
 
 ## Technologies Used
-- jupyter notebook
+- jupyter notebook - 7.0.8
 - matplotlib library
-- seaborn library
-- pandas
-- numpy
+- seaborn library - Seaborn version: 0.12.2
+- pandas - Pandas version: 2.1.4
+- numpy - NumPy version: 1.26.4
 
 ## Acknowledgements
 - This project was done as part of Upgrad64 Batch - ML/AI project under EDA module.
@@ -32,5 +32,5 @@
 
 
 ## Contact
-Created by [@prashanthector] - feel free to contact me!
+Created by [@prashanthector] and [@pgk99] - feel free to contact us!
 
